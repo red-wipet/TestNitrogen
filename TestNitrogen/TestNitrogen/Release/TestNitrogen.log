@@ -1,0 +1,47 @@
+﻿  TestNitrogen.cpp
+C:\Users\mrsuperbuddy\source\repos\TestNitrogen\TestNitrogen\TestNitrogen.cpp(174,7): warning C4552: "<": результат выражения не используется
+C:\Users\mrsuperbuddy\source\repos\TestNitrogen\TestNitrogen\TestNitrogen.cpp(184,10): warning C4552: "<": результат выражения не используется
+C:\Users\mrsuperbuddy\source\repos\TestNitrogen\TestNitrogen\TestNitrogen.cpp(189,10): warning C4552: "<": результат выражения не используется
+C:\Users\mrsuperbuddy\source\repos\TestNitrogen\TestNitrogen\TestNitrogen.cpp(49167,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\TestNitrogen\TestNitrogen\TestNitrogen.cpp(49169,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\TestNitrogen\TestNitrogen\TestNitrogen.cpp(49207,14): warning C4244: инициализация: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\TestNitrogen\TestNitrogen\TestNitrogen.cpp(49256,14): warning C4244: инициализация: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\TestNitrogen\TestNitrogen\TestNitrogen.cpp(49305,14): warning C4244: инициализация: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\TestNitrogen\TestNitrogen\TestNitrogen.cpp(49412,14): warning C4244: инициализация: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\TestNitrogen\TestNitrogen\TestNitrogen.cpp(49526,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\TestNitrogen\TestNitrogen\TestNitrogen.cpp(49527,43): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\TestNitrogen\TestNitrogen\TestNitrogen.cpp(49527,22): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\TestNitrogen\TestNitrogen\TestNitrogen.cpp(49528,40): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\TestNitrogen\TestNitrogen\TestNitrogen.cpp(49528,19): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\TestNitrogen\TestNitrogen\TestNitrogen.cpp(49558,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\TestNitrogen\TestNitrogen\TestNitrogen.cpp(49559,43): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\TestNitrogen\TestNitrogen\TestNitrogen.cpp(49559,22): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\TestNitrogen\TestNitrogen\TestNitrogen.cpp(49560,40): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\TestNitrogen\TestNitrogen\TestNitrogen.cpp(49560,19): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\TestNitrogen\TestNitrogen\TestNitrogen.cpp(49589,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\TestNitrogen\TestNitrogen\TestNitrogen.cpp(49590,43): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\TestNitrogen\TestNitrogen\TestNitrogen.cpp(49590,22): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\TestNitrogen\TestNitrogen\TestNitrogen.cpp(49591,40): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\TestNitrogen\TestNitrogen\TestNitrogen.cpp(49591,19): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\TestNitrogen\TestNitrogen\TestNitrogen.cpp(49620,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\TestNitrogen\TestNitrogen\TestNitrogen.cpp(49621,43): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\TestNitrogen\TestNitrogen\TestNitrogen.cpp(49621,22): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\TestNitrogen\TestNitrogen\TestNitrogen.cpp(49622,40): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\TestNitrogen\TestNitrogen\TestNitrogen.cpp(49622,19): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\TestNitrogen\TestNitrogen\TestNitrogen.cpp(49629,20): warning C4838: Преобразование из "int" в "BYTE" требует сужающего преобразования.
+C:\Users\mrsuperbuddy\source\repos\TestNitrogen\TestNitrogen\TestNitrogen.cpp(49630,3): warning C4305: инициализация: усечение из "int" в "BYTE"
+C:\Users\mrsuperbuddy\source\repos\TestNitrogen\TestNitrogen\TestNitrogen.cpp(49629,20): warning C4309: инициализация: усечение константного значения
+C:\Users\mrsuperbuddy\source\repos\TestNitrogen\TestNitrogen\TestNitrogen.cpp(49640,24): warning C4129: T: неизвестная escape-последовательность
+C:\Users\mrsuperbuddy\source\repos\TestNitrogen\TestNitrogen\TestNitrogen.cpp(49640,24): warning C4129: I: неизвестная escape-последовательность
+C:\Users\mrsuperbuddy\source\repos\TestNitrogen\TestNitrogen\TestNitrogen.cpp(49640,24): warning C4129: C: неизвестная escape-последовательность
+C:\Users\mrsuperbuddy\source\repos\TestNitrogen\TestNitrogen\TestNitrogen.cpp(49640,24): warning C4129: P: неизвестная escape-последовательность
+C:\Users\mrsuperbuddy\source\repos\TestNitrogen\TestNitrogen\TestNitrogen.cpp(49646,25): warning C4129: T: неизвестная escape-последовательность
+C:\Users\mrsuperbuddy\source\repos\TestNitrogen\TestNitrogen\TestNitrogen.cpp(49646,25): warning C4129: I: неизвестная escape-последовательность
+C:\Users\mrsuperbuddy\source\repos\TestNitrogen\TestNitrogen\TestNitrogen.cpp(49646,25): warning C4129: C: неизвестная escape-последовательность
+C:\Users\mrsuperbuddy\source\repos\TestNitrogen\TestNitrogen\TestNitrogen.cpp(49718,36): warning C4129: (: неизвестная escape-последовательность
+  Создание кода
+  1 of 20 functions ( 5.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  TestNitrogen.vcxproj -> C:\Users\mrsuperbuddy\source\repos\TestNitrogen\Release\TestNitrogen.exe

@@ -1,0 +1,42 @@
+﻿  TestNitrogen.peaceful.cpp
+C:\Users\mrsuperbuddy\source\repos\TestNitrogen.peaceful\TestNitrogen.peaceful\TestNitrogen.peaceful.cpp(174,7): warning C4552: "<": результат выражения не используется
+C:\Users\mrsuperbuddy\source\repos\TestNitrogen.peaceful\TestNitrogen.peaceful\TestNitrogen.peaceful.cpp(184,10): warning C4552: "<": результат выражения не используется
+C:\Users\mrsuperbuddy\source\repos\TestNitrogen.peaceful\TestNitrogen.peaceful\TestNitrogen.peaceful.cpp(189,10): warning C4552: "<": результат выражения не используется
+C:\Users\mrsuperbuddy\source\repos\TestNitrogen.peaceful\TestNitrogen.peaceful\TestNitrogen.peaceful.cpp(49120,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\TestNitrogen.peaceful\TestNitrogen.peaceful\TestNitrogen.peaceful.cpp(49122,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\TestNitrogen.peaceful\TestNitrogen.peaceful\TestNitrogen.peaceful.cpp(49160,14): warning C4244: инициализация: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\TestNitrogen.peaceful\TestNitrogen.peaceful\TestNitrogen.peaceful.cpp(49209,14): warning C4244: инициализация: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\TestNitrogen.peaceful\TestNitrogen.peaceful\TestNitrogen.peaceful.cpp(49258,14): warning C4244: инициализация: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\TestNitrogen.peaceful\TestNitrogen.peaceful\TestNitrogen.peaceful.cpp(49365,14): warning C4244: инициализация: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\TestNitrogen.peaceful\TestNitrogen.peaceful\TestNitrogen.peaceful.cpp(49479,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\TestNitrogen.peaceful\TestNitrogen.peaceful\TestNitrogen.peaceful.cpp(49480,43): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\TestNitrogen.peaceful\TestNitrogen.peaceful\TestNitrogen.peaceful.cpp(49480,22): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\TestNitrogen.peaceful\TestNitrogen.peaceful\TestNitrogen.peaceful.cpp(49481,40): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\TestNitrogen.peaceful\TestNitrogen.peaceful\TestNitrogen.peaceful.cpp(49481,19): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\TestNitrogen.peaceful\TestNitrogen.peaceful\TestNitrogen.peaceful.cpp(49511,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\TestNitrogen.peaceful\TestNitrogen.peaceful\TestNitrogen.peaceful.cpp(49512,43): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\TestNitrogen.peaceful\TestNitrogen.peaceful\TestNitrogen.peaceful.cpp(49512,22): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\TestNitrogen.peaceful\TestNitrogen.peaceful\TestNitrogen.peaceful.cpp(49513,40): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\TestNitrogen.peaceful\TestNitrogen.peaceful\TestNitrogen.peaceful.cpp(49513,19): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\TestNitrogen.peaceful\TestNitrogen.peaceful\TestNitrogen.peaceful.cpp(49542,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\TestNitrogen.peaceful\TestNitrogen.peaceful\TestNitrogen.peaceful.cpp(49543,43): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\TestNitrogen.peaceful\TestNitrogen.peaceful\TestNitrogen.peaceful.cpp(49543,22): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\TestNitrogen.peaceful\TestNitrogen.peaceful\TestNitrogen.peaceful.cpp(49544,40): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\TestNitrogen.peaceful\TestNitrogen.peaceful\TestNitrogen.peaceful.cpp(49544,19): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\TestNitrogen.peaceful\TestNitrogen.peaceful\TestNitrogen.peaceful.cpp(49573,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\TestNitrogen.peaceful\TestNitrogen.peaceful\TestNitrogen.peaceful.cpp(49574,43): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\TestNitrogen.peaceful\TestNitrogen.peaceful\TestNitrogen.peaceful.cpp(49574,22): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\TestNitrogen.peaceful\TestNitrogen.peaceful\TestNitrogen.peaceful.cpp(49575,40): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\TestNitrogen.peaceful\TestNitrogen.peaceful\TestNitrogen.peaceful.cpp(49575,19): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\TestNitrogen.peaceful\TestNitrogen.peaceful\TestNitrogen.peaceful.cpp(49582,20): warning C4838: Преобразование из "int" в "BYTE" требует сужающего преобразования.
+C:\Users\mrsuperbuddy\source\repos\TestNitrogen.peaceful\TestNitrogen.peaceful\TestNitrogen.peaceful.cpp(49583,3): warning C4305: инициализация: усечение из "int" в "BYTE"
+C:\Users\mrsuperbuddy\source\repos\TestNitrogen.peaceful\TestNitrogen.peaceful\TestNitrogen.peaceful.cpp(49582,20): warning C4309: инициализация: усечение константного значения
+C:\Users\mrsuperbuddy\source\repos\TestNitrogen.peaceful\TestNitrogen.peaceful\TestNitrogen.peaceful.cpp(49593,25): warning C4129: I: неизвестная escape-последовательность
+C:\Users\mrsuperbuddy\source\repos\TestNitrogen.peaceful\TestNitrogen.peaceful\TestNitrogen.peaceful.cpp(49593,25): warning C4129: N: неизвестная escape-последовательность
+C:\Users\mrsuperbuddy\source\repos\TestNitrogen.peaceful\TestNitrogen.peaceful\TestNitrogen.peaceful.cpp(49593,25): warning C4129: O: неизвестная escape-последовательность
+  Создание кода
+  0 of 18 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  TestNitrogen.peaceful.vcxproj -> C:\Users\mrsuperbuddy\source\repos\TestNitrogen.peaceful\Release\TestNitrogen.peaceful.exe
